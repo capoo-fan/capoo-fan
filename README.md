@@ -20,7 +20,7 @@ I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
 </div>
 
 <div align="center">
-    <img src="https://github.com/longlin10086/**longlin10086**/blob/output/github-snake.svg" />
+    <img src="https://github.com/longlin10086/longlin10086/blob/output/github-snake.svg" />
 </div>
 
 ## GitHub Visitor Counts 🎉
