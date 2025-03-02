@@ -21,7 +21,7 @@ I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
 
 
 ## GitHub Visitor Counts 🎉
-<img src="https://count.getloli.com/get/@:capoo-fan?theme=rule34">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capoo-fan&" alt="capoo-fan" /></p>
 
 <!--
 **capoo-fan/capoo-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
