@@ -15,7 +15,7 @@ I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=longlin10086" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capoo-fan&layout=compact" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=capoo-fan" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capoo-fan&layout=compact" />
 <span>  </span>
 </div>
 
