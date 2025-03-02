@@ -1,10 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ## Self Intro 😉
-I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
-- 🔭 I’m currently working on **C++ / Python / LaTeX / Typst**
-- 🌱 I’m currently learning **JS / Network**
-- 💬 You can communicate with me in **中文 | English**, and I'm really interested in learning **日本語**
+I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
+- 🔭 I’m currently working on **C++ / Python / Typst**
+- 🌱 I’m currently learning **CSS/JS/HTML**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +15,7 @@ I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=longlin10086" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longlin10086&layout=compact" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=longlin10086" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capoo-fan&layout=compact" />
 <span>  </span>
 </div>
 
@@ -25,10 +24,10 @@ I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
 </div>
 
 ## GitHub Visitor Counts 🎉
-<img src="https://count.getloli.com/get/@:longlin10086?theme=rule34">
+<img src="https://count.getloli.com/get/@:capoo-fan?theme=rule34">
 
 <!--
-**longlin10086/longlin10086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**capoo-fan/capoo-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
