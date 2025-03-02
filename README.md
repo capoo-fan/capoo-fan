@@ -7,7 +7,7 @@ I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,vim,bash,cmake,html,css,latex,linux,md,nginx,py,qt" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,md,vscode,neovim,arch,github,stackoverflow,ai,docker,rocket" />
   </a>
 </p>
 
