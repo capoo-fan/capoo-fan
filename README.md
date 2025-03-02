@@ -19,9 +19,6 @@ I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
 <span>  </span>
 </div>
 
-<div align="center">
-    <img src="https://github.com/longlin10086/longlin10086/blob/output/github-snake.svg" />
-</div>
 
 ## GitHub Visitor Counts 🎉
 <img src="https://count.getloli.com/get/@:capoo-fan?theme=rule34">
