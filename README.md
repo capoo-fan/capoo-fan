@@ -27,6 +27,12 @@ I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
 <!--
 **capoo-fan/capoo-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
