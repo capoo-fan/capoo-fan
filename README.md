@@ -6,8 +6,8 @@
 
 ## Self Intro 😉
 I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
-- 🔭 I’m currently working on **C++/PC++ / Python / Typst**
-- 🌱 I’m currently learning **CSS/JS/HTML**
+- 🔭 I’m currently working on **C++/Rust/ Python / Typst**
+- 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Linux/C++/Python**
 <p align="center">
   <a href="https://skillicons.dev">
