@@ -2,7 +2,6 @@
 
 ![](picture/header_.png)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I'm+潜伏+CAPOO-KING%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ## Self Intro 😉
 I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
