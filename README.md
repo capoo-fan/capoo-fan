@@ -6,9 +6,9 @@
 ## Self Intro 😉
 I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
 
-- 🔭 I’m currently working on **C++/Javascript/Python/Typst**
+- 🔭 I’m currently working on **Python/Typst**
 - 🌱 I’m currently learning **Python**
-- 💬 Ask me about **Linux/Full-Stack/Python**
+- 💬 Ask me about **Linux/AI/Python**
 
 <p align="center">
   <a href="https://skillicons.dev">
