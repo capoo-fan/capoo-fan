@@ -26,7 +26,7 @@ I'm 潜伏, currently studying in Harbin Institute of Technology(Shen Zhen).
 ## About Me & Links 📫
 
 - 📝 Blog: [我的博客](https://capoo-fan.github.io/blog) - 分享技术文章和生活感悟
-- 📧 Email: [你的邮箱](mailto:qianfu46@gmail.com) - 有问题随时联系
+- 📧 Email: [我的邮箱](mailto:qianfu46@gmail.com) - 有问题随时联系
 - GitHub: [capoo-fan](https://github.com/capoo-fan)  - 更多项目
 
 
